@@ -43,11 +43,7 @@ To be able to provide a nice GUI for Linux, Mac and Windows, Hostel uses
 Installation
 ------------
 
-WARNING:
-
-**Note: This is a work in progress. The gem has not yet been released. This
-README is just a spec for now, a result of [Readme Driven Development]
-(http://tom.preston-werner.com/2010/08/23/readme-driven-development.html).
+**Note: This is a work in progress. This README is just a spec for now.
 Nothing described here works yet, but it will soon.**
 
 To install it via Rubygems.org simply do:
