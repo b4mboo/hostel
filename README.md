@@ -58,7 +58,7 @@ Usage
 
 After installing the gem, just run
 
-   hostel
+    hostel
 
 to start the GUI. From here just fill in the fields and follow the instructions.
 
